@@ -1,7 +1,7 @@
 # N-gram frequencies
 Simple utility to find the most common word n-grams from a corpus. Good for language learning, etc.
 
-### Instructions
+### Usage
 
 1. Find a monolingual corpus in your target language. I recommend using the [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles.php). Click on your language in the leftmost column in the _lower table_ to download a .txt file.
 
